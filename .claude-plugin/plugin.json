@@ -1,0 +1,17 @@
+{
+  "name": "project-reviews",
+  "version": "1.0.0",
+  "description": "Builds a decision-ready project review packet from supplied plans, evidence, risks, and actions. Static: no network calls, no remote fetch, no telemetry, and no auto-update.",
+  "author": {
+    "name": "Andrew Luxem"
+  },
+  "homepage": "https://github.com/andrewluxem/project-reviews",
+  "repository": "https://github.com/andrewluxem/project-reviews",
+  "license": "MIT",
+  "keywords": [
+    "agent-skills",
+    "claude-code",
+    "project-review",
+    "project-management"
+  ]
+}
